@@ -1,4 +1,5 @@
 # Recriando a Interface basica do Netflix
 
-Recriando a interface do principal site de streaming netflix utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
-
+Clone da página inicial básica do Netflix.
+A ideia é usar fundamentos de HTML, CSS e JavaScript para montar a estrutura da página inicial.
+Acesso: https://katialins.github.io/site/oneflix/
